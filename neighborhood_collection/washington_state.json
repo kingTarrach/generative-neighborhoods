@@ -1,0 +1,1390 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-03-04T03:15:00Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 2941822,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "designation": "civil_parish",
+    "name": "Washington",
+    "ref:gss": "E04009973",
+    "type": "boundary",
+    "wikidata": "Q1018557"
+  }
+},
+{
+  "type": "relation",
+  "id": 3952986,
+  "tags": {
+    "admin_level": "10",
+    "alt_name": "Centro Storico",
+    "boundary": "administrative",
+    "name": "Municipio 1",
+    "old_name": "Zona 1",
+    "type": "boundary",
+    "wikidata": "Q2494319",
+    "wikipedia": "it:Municipio 1 di Milano"
+  }
+},
+{
+  "type": "relation",
+  "id": 3953444,
+  "tags": {
+    "admin_level": "10",
+    "alt_name": "Barona/Lorenteggio",
+    "boundary": "administrative",
+    "name": "Municipio 6",
+    "old_name": "Zona 6",
+    "type": "boundary",
+    "wikidata": "Q4024695",
+    "wikipedia": "it:Municipio 6 di Milano"
+  }
+},
+{
+  "type": "relation",
+  "id": 3953572,
+  "tags": {
+    "admin_level": "10",
+    "alt_name": "Baggio/San Siro",
+    "boundary": "administrative",
+    "name": "Municipio 7",
+    "old_name": "Zona 7",
+    "type": "boundary",
+    "wikidata": "Q2647784",
+    "wikipedia": "it:Municipio 7 di Milano"
+  }
+},
+{
+  "type": "relation",
+  "id": 4622764,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Portal Estates",
+    "place": "neighbourhood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 6440034,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gold Coast District",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7499595,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "ele": "113",
+    "gnis:feature_id": "1867622",
+    "name": "North Hill",
+    "place": "neighbourhood",
+    "source": "http://www.desmoineswa.gov/DocumentCenter/View/36",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7499608,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "ele": "121",
+    "gnis:feature_id": "1512462",
+    "gnis_cou_1": "033",
+    "gnis_count": "King",
+    "gnis_state": "53",
+    "name": "Midway",
+    "place": "neighbourhood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7511152,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Pacific Ridge",
+    "place": "neighbourhood",
+    "source": "http://www.desmoineswa.gov/DocumentCenter/View/36",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12036842,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Birchwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12036860,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Columbia",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12036976,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cornwall Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12037659,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "City Center",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12037719,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Irongate",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12041668,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northwest Everett",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12041700,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Delta",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12041746,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bayside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12808501,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Riverside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12808871,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Port Gardner",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810768,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lowell",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810810,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glacier View",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810829,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "South Forest Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810858,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "View Ridge - Madison",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810885,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Harborview - Seahurst - Glenhaven",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810919,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Boulevard Bluffs",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810947,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Evergreen",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12810991,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pinehurst - Beverly Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12811030,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Valley View",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12811098,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cascade View",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12813740,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westmont",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12813767,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Holly",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12813840,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Twin Creeks",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 12824896,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Whitman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329294,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Shumway",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329295,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Carter Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329296,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lincoln",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329297,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northwest",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329298,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Arnada",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329299,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hough",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329300,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Esther Short",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13329301,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fruit Valley",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336697,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Vancouver Mall",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336698,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "East Minnehaha",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336699,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Roads End",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336700,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Truman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336701,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "West Minnehaha",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336766,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northcrest",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336767,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Harney Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336768,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Meadow Homes",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336769,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Maplewood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336770,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Central Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336771,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bagley Downs",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336772,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rose Village",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13336773,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fourth Plain Village",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344923,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Columbia Way",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344924,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Evergreen Shores",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344925,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Dubois Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344926,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Edgewood Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344927,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "South Cliff",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344928,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hudson's Bay",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344991,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Old Evergreen Highway",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344992,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ellsworth Springs",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344993,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Riverview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344994,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Father Blanchet Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344995,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Evergreen Highlands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344996,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Vancouver Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344997,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Marrion",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344998,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Forest Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344999,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Garrison Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13345000,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13345001,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Burton Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13345002,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Oakbrook",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13345003,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ogden",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353500,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mountain View",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353501,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cascade Highlands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353502,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cascade Southeast",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353503,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fairway/164th",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353504,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bella Vista",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353505,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lewis & Clark Woods",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353506,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Wildwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353507,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Riveridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13353508,
+  "tags": {
+    "admin_level": "10",
+    "alt_name:es": "Gran Río",
+    "boundary": "administrative",
+    "name": "Columbia River",
+    "name:azb": "کولمبیا چایی",
+    "name:es": "Río Columbia",
+    "name:ur": "کولمبیا دریا",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13362985,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bennington",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13362986,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northfield",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13362987,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fisher's Landing East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13362988,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fisher's Creek",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13362989,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Village at Fisher's Landing",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363043,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fircrest",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363044,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Hearthwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363045,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "First Place",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363046,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Airport Green",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363047,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hearthwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363048,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Countryside Woods",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363049,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "East Mill Plain",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363902,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Image",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363903,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Burnt Bridge Creek",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363904,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Image",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363905,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parkside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363906,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parkway East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363907,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Burton Evergreen",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363908,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cimarron",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363909,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kevanna Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13363910,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Landover-Sharmel",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13962369,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sherwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13962370,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Salmon Creek",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13962371,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Felida",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13962372,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northeast Hazel Dell",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13962373,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "West Hazel Dell",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686285,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Heritage",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686286,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sifton",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686287,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sunnyside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686288,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Maple Tree",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686289,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Green Meadows",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686290,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Andresen/Saint Johns",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686344,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ramblin Creek Estates/South Salmon Creek Avenue",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686345,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pleasant Highlands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686487,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Washougal River",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14686488,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Proebstel",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14696844,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Greater Brush Prairie",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 14696853,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fairgrounds",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 15997493,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Washington",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 16389580,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 8",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122851823"
+  }
+},
+{
+  "type": "relation",
+  "id": 16394083,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 7",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122851830"
+  }
+},
+{
+  "type": "relation",
+  "id": 16394251,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 5",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122860508"
+  }
+},
+{
+  "type": "relation",
+  "id": 16394280,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 6",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122851833"
+  }
+},
+{
+  "type": "relation",
+  "id": 16408680,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 3",
+    "type": "boundary",
+    "wikidata": "Q122905337"
+  }
+},
+{
+  "type": "relation",
+  "id": 16408707,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 1",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122905344"
+  }
+},
+{
+  "type": "relation",
+  "id": 16408809,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 4",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122905333"
+  }
+},
+{
+  "type": "relation",
+  "id": 16408810,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ward 2",
+    "place": "borough",
+    "type": "boundary",
+    "wikidata": "Q122905338"
+  }
+},
+{
+  "type": "relation",
+  "id": 17914850,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Chinatown International District",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17914851,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Little Saigon",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17914852,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Chinatown",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17914853,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Japantown",
+    "type": "boundary"
+  }
+}
+
+  ]
+}

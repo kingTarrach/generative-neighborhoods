@@ -1,0 +1,4551 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-03-04T04:02:58Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 7820445,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Grandview Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820455,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blue Quill",
+    "type": "boundary",
+    "wikidata": "Q4929648",
+    "wikipedia": "en:Blue Quill, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820456,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sweet Grass",
+    "place": "quarter",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820458,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Steinhauer",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820476,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ermineskin",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820478,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blue Quill Estates",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820540,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Keheewin",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820541,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Skyrattler",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820543,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Greenfield",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820630,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bearspaw",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820631,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Duggan",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820632,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rideau Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820633,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Empire Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820634,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pleasantview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820635,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Allendale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820639,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westbrook Estates",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820640,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Aspen Gardens",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820641,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lansdowne",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820642,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Malmo Plains",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820643,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Royal Gardens",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820653,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Belgravia",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820654,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Windsor Park",
+    "place": "quarter",
+    "type": "boundary",
+    "wikipedia": "en:Windsor Park, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820656,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McKernan",
+    "source": "McKernan District Community League Bylaws 2015",
+    "type": "boundary",
+    "wikidata": "Q6801862"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820657,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parkallen",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820663,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Queen Alexandra",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820664,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Strathcona",
+    "type": "boundary",
+    "wikidata": "Q7622057",
+    "wikipedia": "en:Strathcona, Edmonton",
+    "wikipedia:en": "Strathcona, Alberta"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820665,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ritchie",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820666,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hazeldean",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820671,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Twin Brooks",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820672,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blackburne",
+    "population": "1520",
+    "type": "boundary",
+    "wikidata": "Q4922742"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820673,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Richford",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820674,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blackmud Creek Neighbourhood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820675,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rutherford",
+    "population": "8407",
+    "type": "boundary",
+    "wikidata": "Q7383311"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820680,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ellerslie Crossing",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820681,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Summerside",
+    "population": "7040",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/summerside.aspx",
+    "wikidata": "Q7637666"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820682,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "The Orchards at Ellerslie",
+    "population": "782",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/the-orchards-at-ellerslie.aspx",
+    "wikidata": "Q7755287"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820683,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Walker",
+    "population": "2553",
+    "population:date": "2016",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/walker.aspx",
+    "wikidata": "Q7962185",
+    "wikipedia": "en:Walker, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820684,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Charlesworth",
+    "population": "4169",
+    "population:date": "2016",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/charlesworth.aspx",
+    "wikidata": "Q5084246",
+    "wikipedia": "en:Charlesworth, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820852,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ottewell",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820853,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Holyrood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820854,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Forest Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820855,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Terrace Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820858,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Strathearn",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820859,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cloverdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820864,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fulton Place",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820865,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gold Bar",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820866,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Capilano",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820868,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Garneau",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820879,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Brookside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7820880,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Brander Gardens",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821851,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ramsay Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821852,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bulyea Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821854,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ogilvie Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821856,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Carter Crest",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821887,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Strathcona Junction",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7821888,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "CPR Irvine",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822033,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "University of Alberta",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822034,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Laurier Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822070,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Spruce Avenue",
+    "type": "boundary",
+    "wikidata": "Q7581387"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822142,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Alberta Avenue",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822284,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rhatigan Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822285,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Falconer Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822286,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Henderson Estates",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822402,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hodgson",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7822633,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "MacEwan",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823075,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Paisley",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823076,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Graydon Hill",
+    "type": "boundary",
+    "wikidata": "Q5598299"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823077,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Heritage Valley Neighbourhood 14",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823078,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hays Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823155,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glenridding Ravine",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823156,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Chappelle",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823157,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Desrochers",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823158,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Allard",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823199,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Callaghan",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7823200,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cavanagh",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824356,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Windermere Neighbourhood 5",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824357,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Keswick",
+    "type": "boundary",
+    "wikidata": "Q6395260"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824358,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Grandisle",
+    "type": "boundary",
+    "wikidata": "Q29561140"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824472,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glenridding Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824683,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ambleside",
+    "population": "2328",
+    "type": "boundary",
+    "wikidata": "Q4741534"
+  }
+},
+{
+  "type": "relation",
+  "id": 7824684,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Windermere Neighbourhood",
+    "population": "2136",
+    "type": "boundary",
+    "wikidata": "Q8024111"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825048,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Stillwater",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825049,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River's Edge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825050,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "The Uplands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825051,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Edgemont",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825265,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cameron Heights",
+    "population": "1125",
+    "type": "boundary",
+    "wikidata": "Q5026264"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825266,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Wedgewood Heights",
+    "type": "boundary",
+    "wikidata": "Q7979183"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825321,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "The Hamptons",
+    "population": "9405",
+    "type": "boundary",
+    "wikidata": "Q7738696"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825322,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Granville",
+    "population": "222",
+    "type": "boundary",
+    "wikidata": "Q5596848"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825323,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glastonbury",
+    "population": "5984",
+    "type": "boundary",
+    "wikidata": "Q5567209"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825433,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rosenthal",
+    "type": "boundary",
+    "wikidata": "Q7368606"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825434,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Breckenridge Greens",
+    "population": "1911",
+    "type": "boundary",
+    "wikidata": "Q4960035",
+    "wikipedia": "en:Breckenridge Greens, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825435,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Potter Greens",
+    "population": "1520",
+    "type": "boundary",
+    "wikidata": "Q7235260"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825436,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Suder Greens",
+    "population": "2811",
+    "type": "boundary",
+    "wikidata": "Q7633696",
+    "wikipedia": "en:Suder Greens, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825437,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Webber Greens",
+    "population": "549",
+    "type": "boundary",
+    "wikidata": "Q7978688"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825438,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Secord",
+    "population": "914",
+    "type": "boundary",
+    "wikidata": "Q7443910"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825439,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Stewart Greens",
+    "type": "boundary",
+    "wikidata": "Q7615806",
+    "wikipedia": "en:Stewart Greens, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825463,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westview Village",
+    "population": "1310",
+    "source": "City of Edmonton",
+    "type": "boundary",
+    "wikipedia": "en:Westview Village, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825464,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kinglet Gardens",
+    "type": "boundary",
+    "wikidata": "Q19462782"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825465,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hawks Ridge",
+    "population": "57",
+    "type": "boundary",
+    "wikidata": "Q5685236"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825466,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Trumpeter",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825467,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pintail Landing",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825468,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Starling",
+    "population": "73",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825470,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "description": "Goodridge Corners is a future neighbourhood in northwest Edmonton.",
+    "name": "Goodridge Corners",
+    "population": "0",
+    "type": "boundary",
+    "wikidata": "Q5583590",
+    "wikipedia": "en:Goodridge Corners, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825515,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Crystallina Nera East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825516,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Crystallina Nera West",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825517,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Klarvatten",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825519,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lago Lindo",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825541,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Schonsee",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825542,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McConachie",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825543,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cy Becker",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825628,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "La Perle",
+    "type": "boundary",
+    "wikidata": "Q6464373"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825629,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Terra Losa",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825630,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Summerlea",
+    "type": "boundary",
+    "wikidata": "Q7637621"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825631,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Belmead",
+    "type": "boundary",
+    "wikidata": "Q4884275"
+  }
+},
+{
+  "type": "relation",
+  "id": 7825673,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kenilworth",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7826904,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Avonmore",
+    "type": "boundary",
+    "wikidata": "Q4829349"
+  }
+},
+{
+  "type": "relation",
+  "id": 7826905,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Argyll",
+    "type": "boundary",
+    "wikidata": "Q4789843",
+    "wikipedia": "en:Argyll, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7826906,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "King Edward Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7826907,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bonnie Doon",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7826908,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Idylwylde",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827111,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Highlands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827299,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Downtown",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827300,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rossdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827627,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Maple Oak Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827628,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Maple",
+    "population": "1149",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q6753823",
+    "wikipedia": "en:Maple, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827844,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Riverdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827921,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Boyle Street",
+    "population": "6740",
+    "type": "boundary",
+    "wikidata": "Q4952532",
+    "wikipedia": "en:Boyle Street, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7827935,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cromdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828075,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Virginia Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828076,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bellevue",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828092,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Beverly Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828107,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rundle Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828166,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Abbottsfield",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828167,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Beacon Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828168,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bergman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828178,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Newton",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828179,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Montrose",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7828192,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Edmonton Northlands",
+    "tourism": "attraction",
+    "type": "boundary",
+    "website": "https://www.northlands.com/",
+    "wikidata": "Q7059554",
+    "wikipedia": "en:Northlands Park"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829803,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hillview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829804,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lee Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829805,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Greenview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829806,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Michaels Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829901,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Delwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829902,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glengarry",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829903,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Northmount",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829904,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kildare",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829966,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Calder",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829967,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lauderdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829968,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kensington",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829969,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rosslyn",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7829970,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Killarney",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7830337,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kilkenny",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7830338,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Evansdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7830628,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Oliver",
+    "note": "Please stop adding the new name, it does not take effect until 2025.",
+    "proposed:name:2025": "Wîhkwêntôwin",
+    "proposed:name:cr:2025": "ᐄᐧᐦᑫᐧᐣᑑᐃᐧᐣ",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7836523,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ozerna",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7836530,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mayliewan",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7889394,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Belle Rive",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7889395,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Eaux Claires",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7889568,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McCauley",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7889975,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Queen Mary Park",
+    "type": "boundary",
+    "wikidata": "Q7270463"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891285,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Central McDougall",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891605,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Prince Rupert",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891638,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westmount",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891639,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glenora",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891640,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Grovenor",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891641,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "North Glenora",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7891642,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McQueen",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7893058,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westwood",
+    "type": "boundary",
+    "wikidata": "Q7989839"
+  }
+},
+{
+  "type": "relation",
+  "id": 7893319,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Delton",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7893320,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Eastwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7893453,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Elmwood Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7893814,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parkdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895266,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Balwin",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895296,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Belvedere",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895326,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lendrum Place",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895559,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "York",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895560,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McLeod",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895621,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Griesbach",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895862,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Tweddle Place",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895863,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McIntyre Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7895864,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Roper Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896022,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Richfield",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896023,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Strathcona Industrial Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896024,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parsons Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896025,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Tipaskan",
+    "population": "2,955",
+    "type": "boundary",
+    "wikidata": "Q7808809"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896026,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Meyonohk",
+    "population": "3,025",
+    "type": "boundary",
+    "wikidata": "Q6826545"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896055,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kameyosek",
+    "type": "boundary",
+    "wikidata": "Q6357062"
+  }
+},
+{
+  "type": "relation",
+  "id": 7896056,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Tawa",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7904764,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Satoo",
+    "population": "3,600",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/satoo.aspx",
+    "wikidata": "Q7426363"
+  }
+},
+{
+  "type": "relation",
+  "id": 7904765,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ekota",
+    "population": "2,640",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/ekota.aspx",
+    "wikidata": "Q5350551"
+  }
+},
+{
+  "type": "relation",
+  "id": 7904766,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Menisa",
+    "population": "2,680",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/menisa.aspx",
+    "wikidata": "Q14874864"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905132,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Meyokumin",
+    "population": "3065",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/meyokumin.aspx",
+    "wikidata": "Q6826539"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905133,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sakaw",
+    "population": "4,220",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/residential_neighbourhoods/neighbourhoods/sakaw.aspx",
+    "wikidata": "Q7402866"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905138,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mill Woods Town Centre Area",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905590,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pollard Meadows",
+    "population": "4675",
+    "type": "boundary",
+    "wikidata": "Q7225581",
+    "wikipedia": "en:Pollard Meadows, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905591,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Crawford Plains",
+    "population": "4550",
+    "type": "boundary",
+    "wikidata": "Q5182900"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905592,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Daly Grove",
+    "population": "3,710",
+    "type": "boundary",
+    "wikidata": "Q5211780"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905624,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Minchau",
+    "type": "boundary",
+    "wikidata": "Q6863337"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905625,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Weinlos",
+    "type": "boundary",
+    "wikidata": "Q7980260"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905626,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bisset",
+    "population": "3,910",
+    "type": "boundary",
+    "wikidata": "Q14246714",
+    "wikipedia": "en:Bisset, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905769,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Laurel",
+    "population": "7051",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q6499715",
+    "wikipedia": "en:Laurel, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7905775,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Leger",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7906929,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Haddow",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7907697,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "South Terwillegar",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7907840,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mactaggart",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908382,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Magrath Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908406,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Edmonton Research and Development Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908453,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Calgary Trail South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908454,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Calgary Trail North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908455,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Papaschase Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908498,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Coronet Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908499,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rosedale Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908501,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Davies Industrial West",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908586,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Silver Berry",
+    "population": "9001",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q7515849",
+    "wikipedia": "en:Silver Berry, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908623,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Coronet Addition Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908624,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Davies Industrial East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908625,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Girard Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908626,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pylypow Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908627,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Weir Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908644,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Southeast Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908650,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gainer Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908651,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Morris Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908652,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lambton Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908653,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Eastgate Business Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908715,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Tamarack",
+    "population": "4577",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q7680857",
+    "wikipedia": "en:Tamarack, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908718,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Aster",
+    "population": "0",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q19460301",
+    "wikipedia": "en:Aster, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908722,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Wild Rose",
+    "population": "8613",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q8000780",
+    "wikipedia": "en:Wild Rose, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908731,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Larkspur",
+    "population": "5114",
+    "population:date": "2016",
+    "type": "boundary",
+    "wikidata": "Q6489652",
+    "wikipedia": "en:Larkspur, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908738,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kiniski Gardens",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7908750,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Jackson Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7909907,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Maple Ridge Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7909960,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Heritage Valley Town Centre",
+    "population": "0",
+    "type": "boundary",
+    "wikidata": "Q5739099"
+  }
+},
+{
+  "type": "relation",
+  "id": 7909961,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cashman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910194,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Matt Berry",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910195,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hollick-Kenyon",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910559,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rural North East Horse Hill",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910560,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rural North East South Sturgeon",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910561,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Evergreen",
+    "place": "quarter",
+    "population": "1504",
+    "source": "NRCan-CanVec-7.0",
+    "type": "boundary",
+    "wikidata": "Q5417150",
+    "wikipedia": "en:Evergreen, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910651,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Brintnell",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910652,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gorman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910653,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Fraser",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910654,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kirkness",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910661,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Casselman",
+    "type": "boundary",
+    "wikidata": "Q5049295"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910662,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Miller",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910725,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ebbers",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910726,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Clareview Town Centre",
+    "type": "boundary",
+    "wikidata": "Q5126911",
+    "wikipedia": "en:Clareview Town Centre, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910736,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hairsine",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910737,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bannerman",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910741,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kernohan",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910742,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Belmont",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910743,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sifton Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910744,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kennedale Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910752,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Industrial Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910753,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Homesteader",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910754,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Overlanders",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910755,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Canon Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910765,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Prince Charles",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910766,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sherbrooke",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910769,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Dovercourt",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910781,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Inglewood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910782,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Woodcroft",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910888,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Beaumaris",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910906,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lorelei",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910913,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Baturyn",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910914,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Canossa",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910915,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rapperswill",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910916,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Albany",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910937,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Elsinore",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910938,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Chambery",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7913191,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hagmann Estate Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7913192,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Brown Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7913757,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Dunluce",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7913896,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Athlone",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7913897,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Wellington",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7914286,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Oxford",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7914287,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Carlton",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7914288,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Pembina",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915141,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Baranow",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915142,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Cumberland",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915143,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hudson",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915172,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Caernarvon",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915173,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Carlisle",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915181,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rampart Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915182,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McArthur Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915183,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Bonaventure Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915188,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mistatim Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915189,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Kinokamau Plains Area",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915190,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Winterburn Industrial Area West",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915207,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Winterburn Industrial Area East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7915208,
+  "tags": {
+    "admin_level": "10",
+    "alt_name": "Normandeau Gardens",
+    "boundary": "administrative",
+    "name": "Lewis Farms Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7916694,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "High Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7916695,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mayfield",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7916696,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Britannia Youngstown",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7916697,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Canora",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917007,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Huff Bremner Estate Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917008,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Dominion Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917447,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gagnon Estate Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917448,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mitchell Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917449,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Garside Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917450,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "High Park Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917453,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sheffield Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917454,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Alberta Park Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917455,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Hawin Park Estate Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917463,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Carleton Square Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917464,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Norwester Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917465,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "West Sheffield Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917470,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Youngstown Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917471,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Stone Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917472,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "McNamara Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917473,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Armstrong Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917475,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Edmiston Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917476,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Wilson Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917477,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Morin Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917493,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "White Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917494,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Poundmaker Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917495,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sunwapta Industrial",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7917499,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Place LaRue",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7920055,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "West Jasper Place (Neighbourhood)",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7920056,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Crestwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7920117,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Parkview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922002,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Sherwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922003,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Jasper Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922235,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lynnwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922468,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Elmwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922477,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Meadowlark Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922502,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "West Meadowlark Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922517,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Glenwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922531,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Thorncliff",
+    "type": "boundary",
+    "wikidata": "Q7796343"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922647,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Aldergrove",
+    "type": "boundary",
+    "wikidata": "Q4713656"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923200,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Lymburn",
+    "type": "boundary",
+    "wikidata": "Q6708143"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923230,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Callingwood North",
+    "type": "boundary",
+    "wikidata": "Q5022203"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923231,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Westridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923238,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Patricia Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923253,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Rio Terrace Neighbourhood",
+    "type": "boundary",
+    "wikidata": "Q7335337"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923254,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Quesnell Heights",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923274,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Oleskiw",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923327,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Callingwood South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923330,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Donsdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923352,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ormsby Place",
+    "type": "boundary",
+    "wikidata": "Q7103480"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923353,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Jamieson Place",
+    "type": "boundary",
+    "wikidata": "Q14874826"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923356,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Dechene",
+    "type": "boundary",
+    "wikidata": "Q5249118"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923358,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Gariepy",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 7942708,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "University of Alberta South Campus",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8046462,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Fort Edmonton",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8046638,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Whitemud",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8047744,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Mayfair",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8048061,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Victoria",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8048062,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Walterdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8049547,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Kinnaird",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8049548,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Highlands",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8049723,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Terwillegar",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8050185,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Windermere",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8050210,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Laurier",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8051974,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Oleskiw",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8055620,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Cameron",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8057579,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Capitol Hill",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8094456,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Lessard North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8164702,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "White Birch",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 8169559,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Ellerslie Industrial",
+    "population": "0",
+    "type": "boundary",
+    "website": "https://www.edmonton.ca/business_economy/documents/PDF/EdmontonWardNeighbourhoods.pdf",
+    "wikidata": "Q5365178"
+  }
+},
+{
+  "type": "relation",
+  "id": 8608542,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mattson",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9081612,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "South Edmonton Common",
+    "type": "boundary",
+    "wikidata": "Q7567163",
+    "wikipedia": "en:South Edmonton Common"
+  }
+},
+{
+  "type": "relation",
+  "id": 9384505,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Yellowhead Corridor East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9384506,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Yellowhead Corridor West",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9384507,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blatchford",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9536331,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Gold Bar",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9536375,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Rundle",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9538172,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Hermitage",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9538194,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Marquis",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9544006,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mill Woods Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9550554,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Jackie Parker Recreational Area",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9592519,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Terwillegar Community",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9599507,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Riverbend Community",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9661380,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday South West",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9661457,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Whitemud Creek Ravine Twin Brooks",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9661469,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Blackmud Creek Ravine",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9683672,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mill Creek Ravine North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9696028,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Whitemud Creek Ravine North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9696029,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Whitemud Creek Ravine South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9696044,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Glenora",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9696068,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "River Valley Riverside",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9698934,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Mill Creek Ravine South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9704872,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Yellowhead Corridor",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9708812,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Aurum Industrial Business Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9711361,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Clareview Business Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9802966,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Greater Hardisty",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9830422,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Mill Creek South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968076,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Ridgewood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968102,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Burnewood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968537,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Knottwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968749,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Lakewood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968755,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Millbourne",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968759,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Millhurst",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968767,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Southwood",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 9968802,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Woodvale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10115812,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Oak Hills",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10115897,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "The Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10115898,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Terwillegar Towne",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10115917,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Yellowbird",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10122103,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Blackmud",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10122110,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Heritage Point",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10126413,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Greater Rio Terrace",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10126418,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Lessard",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10126423,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Willowby",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10128098,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Londonderry",
+    "type": "boundary",
+    "wikidata": "Q6671169"
+  }
+},
+{
+  "type": "relation",
+  "id": 10128099,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Dickinsfield",
+    "type": "boundary",
+    "wikidata": "Q5273712",
+    "wikipedia": "en:Dickinsfield, Edmonton"
+  }
+},
+{
+  "type": "relation",
+  "id": 10132830,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Fulton Meadows",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10132870,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Lewis Estates",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10132919,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "West Meadows",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10133650,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Langdale",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10133671,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Riverpointe",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10133700,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Windermere North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10152303,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "South Clareview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 10188848,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Wolf Willow",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11485231,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Chappelle Gardens",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 11485232,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Creekwood Chappelle",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17365368,
+  "tags": {
+    "admin_level": "9",
+    "boundary": "administrative",
+    "name": "Chinatown North",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17676467,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Manning Town Centre",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 17705930,
+  "tags": {
+    "admin_level": "11",
+    "boundary": "administrative",
+    "name": "Currents of Windermere",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18465871,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Horse Hill",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18465872,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Clareview",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18465980,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Lake District",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18465981,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Energy Park",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18466006,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Castledowns",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18466024,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Rampart",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18466138,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Mistatim",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18466477,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Big Lake",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18469559,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18469807,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday South",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18469808,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday Terwillegar",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18470066,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday South East",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18470067,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Anthony Henday South Blackburne",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18470380,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Alces",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18470779,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Meltwater",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18470892,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Quarry Ridge",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 18481445,
+  "tags": {
+    "admin_level": "10",
+    "boundary": "administrative",
+    "name": "Decoteau",
+    "type": "boundary"
+  }
+}
+
+  ]
+}
